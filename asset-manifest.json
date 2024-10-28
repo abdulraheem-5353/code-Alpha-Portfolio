@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/code-Alpha-Portfolio/static/css/main.0db4372e.css",
+    "main.js": "/code-Alpha-Portfolio/static/js/main.4c200c49.js",
+    "static/media/MyImg.jpg": "/code-Alpha-Portfolio/static/media/MyImg.d1e29df271eef55b3c80.jpg",
+    "static/media/project2.jpg": "/code-Alpha-Portfolio/static/media/project2.22b7bfd149d5ebf0bfa9.jpg",
+    "static/media/intro-bg.jpg": "/code-Alpha-Portfolio/static/media/intro-bg.435b9a331b78cb1b0510.jpg",
+    "static/media/project3.jpg": "/code-Alpha-Portfolio/static/media/project3.e6f9ed3e3beae5a91db3.jpg",
+    "static/media/project1.avif": "/code-Alpha-Portfolio/static/media/project1.268bb8c3c6ebea80503c.avif",
+    "index.html": "/code-Alpha-Portfolio/index.html",
+    "main.0db4372e.css.map": "/code-Alpha-Portfolio/static/css/main.0db4372e.css.map",
+    "main.4c200c49.js.map": "/code-Alpha-Portfolio/static/js/main.4c200c49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db4372e.css",
+    "static/js/main.4c200c49.js"
+  ]
+}
